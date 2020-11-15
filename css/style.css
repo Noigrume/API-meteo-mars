@@ -1,0 +1,16 @@
+body {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/1024px-OSIRIS_Mars_true_color.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Share Tech Mono', monospace !important;
+}
+
+#weather_box {
+    color: rgb(221, 221, 221);
+    background: rgba(22, 22, 22, 0.89);
+    border-radius: 10px;
+    width: 400px;
+    margin: auto;
+    height: 100vh;
+    padding: 20px;
+}
